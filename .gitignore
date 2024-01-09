@@ -1,0 +1,4 @@
+/.idea/
+/app/config/config.php
+/app/routes/Route.php
+/app/routes/Router.php

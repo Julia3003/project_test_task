@@ -1,0 +1,19 @@
+<?php
+
+# MAIN SETTINGS
+const SITE_NAME = 'Report on orders';
+const LOGO_IMAGE = DIRECTORY_SEPARATOR.'public'.DIRECTORY_SEPARATOR.'images'.DIRECTORY_SEPARATOR.'logo.svg';
+
+#DB
+const DB_HOST = 'localhost';
+const DB_USER = '';
+const DB_PASS = '';
+const DB_NAME = 'project_test_task';
+
+#PATH LIST
+const VIEWS_FOLDER = '..' . DIRECTORY_SEPARATOR . 'app' . DIRECTORY_SEPARATOR . 'view' . DIRECTORY_SEPARATOR;
+const TEMPLATES_FOLDER = VIEWS_FOLDER . DIRECTORY_SEPARATOR . 'templates' . DIRECTORY_SEPARATOR;
+const PAGES_FOLDER = VIEWS_FOLDER . DIRECTORY_SEPARATOR . 'pages' . DIRECTORY_SEPARATOR;
+
+
+
